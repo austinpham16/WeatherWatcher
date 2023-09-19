@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/WeatherWatcher/static/css/main.90a029fc.css",
+    "main.css": "/WeatherWatcher/static/css/main.480930c8.css",
     "main.js": "/WeatherWatcher/static/js/main.2acb89cb.js",
     "static/js/787.01a98b8f.chunk.js": "/WeatherWatcher/static/js/787.01a98b8f.chunk.js",
     "index.html": "/WeatherWatcher/index.html",
-    "main.90a029fc.css.map": "/WeatherWatcher/static/css/main.90a029fc.css.map",
+    "main.480930c8.css.map": "/WeatherWatcher/static/css/main.480930c8.css.map",
     "main.2acb89cb.js.map": "/WeatherWatcher/static/js/main.2acb89cb.js.map",
     "787.01a98b8f.chunk.js.map": "/WeatherWatcher/static/js/787.01a98b8f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.90a029fc.css",
+    "static/css/main.480930c8.css",
     "static/js/main.2acb89cb.js"
   ]
 }
