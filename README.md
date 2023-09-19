@@ -26,7 +26,7 @@ Ready to check the weather? Visit the [WeatherWatcher web app](https://austinpha
 
 ## Feedback and Contributions
 
-We welcome your feedback and contributions to make WeatherWatcher better. If you encounter any issues, have suggestions, or want to get involved in the development process, please visit our [GitHub repository](https://github.com/yourusername/WeatherWatcher) and open an issue or pull request.
+We welcome your feedback and contributions to make WeatherWatcher better. If you encounter any issues, have suggestions, or want to get involved in the development process, please visit our [GitHub repository](https://github.com/austinpham16/WeatherWatcher) and open an issue or pull request.
 
 Thank you for choosing WeatherWatcher as your weather forecasting tool. We hope it serves you well!
 
