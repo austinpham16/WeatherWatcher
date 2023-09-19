@@ -8,7 +8,7 @@ WeatherWatcher is a simple and intuitive weather application that provides you w
 
 - **Week's Forecast:** Plan your week with a detailed forecast for the next seven days, including temperature highs and lows, as well as weather conditions.
 
-- **Asynchronous Search:** Easily search for weather information in different locations by entering the city name or ZIP code.
+- **Asynchronous Search:** Easily search for weather information in different locations by entering the city name.
 
 ## Upcoming Features
 
