@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+# <img src = https://github.com/austinpham16/WeatherWatcher/blob/main/public/icons/11d.png alt = "WeatherWatcher Logo" width = 30 /> WeatherWatcher - Your Weather Forecast App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+WeatherWatcher is a simple and intuitive weather application that provides you with the most up-to-date weather information. With WeatherWatcher, you can stay informed about the current temperature, view the week's forecast, and perform asynchronous searches for weather conditions in different locations, all powered by the OpenWeatherAPI.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Current Temperature:** Get real-time information about the current temperature in your selected location.
 
-### `npm start`
+- **Week's Forecast:** Plan your week with a detailed forecast for the next seven days, including temperature highs and lows, as well as weather conditions.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Asynchronous Search:** Easily search for weather information in different locations by entering the city name or ZIP code.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Upcoming Features
 
-### `npm test`
+WeatherWatcher is continuously evolving to offer you more functionality and a better user experience. Here are some exciting features we intend to add:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Find Your Current Location:** Allow WeatherWatcher to access your device's location, so you can quickly get weather updates for your current whereabouts.
 
-### `npm run build`
+- **Redesigned User Interface:** We are working on enhancing the app's user interface to make it even more user-friendly and visually appealing.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Hourly Forecast:** Stay prepared throughout the day with an hourly forecast feature, providing you with weather updates on an hour-by-hour basis.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Try WeatherWatcher Now!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Ready to check the weather? Visit the [WeatherWatcher web app](https://austinpham16.github.io/WeatherWatcher/) and experience the current features firsthand. Keep an eye out for future updates as we strive to make WeatherWatcher your go-to weather companion.
 
-### `npm run eject`
+## Feedback and Contributions
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+We welcome your feedback and contributions to make WeatherWatcher better. If you encounter any issues, have suggestions, or want to get involved in the development process, please visit our [GitHub repository](https://github.com/yourusername/WeatherWatcher) and open an issue or pull request.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Thank you for choosing WeatherWatcher as your weather forecasting tool. We hope it serves you well!
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Stay tuned for more exciting updates!
